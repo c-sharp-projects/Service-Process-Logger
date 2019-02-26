@@ -1,0 +1,754 @@
+﻿Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Demo Service...
+Service Demo Service has been successfully installed.
+Creating EventLog source Demo Service in log Application...
+Committing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Demo Service...
+Creating EventLog source Demo Service in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Demo Service.
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Demo Service...
+Creating EventLog source Demo Service in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Demo Service.
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Demo Service...
+Creating EventLog source Demo Service in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Demo Service.
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Demo Service...
+Creating EventLog source Demo Service in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Demo Service.
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Demo Service...
+Creating EventLog source Demo Service in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Demo Service.
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Demo Service...
+Creating EventLog source Demo Service in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Demo Service.
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Demo Service...
+Creating EventLog source Demo Service in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Demo Service.
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Demo Service...
+Creating EventLog source Demo Service in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Demo Service.
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Demo Service...
+Creating EventLog source Demo Service in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Demo Service.
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Demo Service...
+Creating EventLog source Demo Service in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Demo Service.
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Demo Service...
+Creating EventLog source Demo Service in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Demo Service.
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Demo Service...
+Creating EventLog source Demo Service in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Demo Service.
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Demo Service...
+Creating EventLog source Demo Service in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Demo Service.
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Demo Service...
+Creating EventLog source Demo Service in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Demo Service.
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Demo Service...
+Creating EventLog source Demo Service in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Demo Service.
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Demo Service...
+Creating EventLog source Demo Service in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Demo Service.
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Demo Service...
+Creating EventLog source Demo Service in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Demo Service.
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Demo Service...
+Creating EventLog source Demo Service in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Demo Service.
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Service Service  has been successfully installed.
+Creating EventLog source Service  in log Application...
+Committing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
+Installing assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Installing service Service ...
+Creating EventLog source Service  in log Application...
+Rolling back assembly 'C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.InstallLog
+   assemblypath = C:\Users\Harshal\Desktop\Demo Service\Demo Service\bin\Debug\Demo Service.exe
+Restoring event log to previous state for source Service .
